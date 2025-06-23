@@ -1,4 +1,4 @@
-# Team-RS
+#Hospital Management System
 Commands to run the program : 
 1. Open the terminal where the code file has been saved (Hospitalmanagement.java)
 2. Next compile the code file with the command javac Hospitalmanagement.java
